@@ -1,5 +1,6 @@
 # Summary
-Title: E-Recipe-popularity-prediction
+## Title
+E-Recipe-popularity-prediction
 
 ## Business Goal
 The main objective of this business case is to be able to correctly predict popular recipes for the Tasty Byte web page i.e. which recipes will lead to high traffic, while trying to minimize the chance of showing unpopular recipes and be on target 80% of the times
